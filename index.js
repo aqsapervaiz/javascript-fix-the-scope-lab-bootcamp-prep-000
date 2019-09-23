@@ -1,4 +1,4 @@
-var n = 2;
+var n = 0;
 var animal = 'cat'
 
 function myAnimal() {
