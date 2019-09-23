@@ -1,4 +1,4 @@
-var n = '397'
+var n = '227'
 var animal = 'cat'
 
 function myAnimal() {
